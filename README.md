@@ -11,7 +11,7 @@ I work across:
 
 ## 🌐 Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaddarvinod2@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yadhar-data-analyst)
 ---
 
 ## 💻 Tech Stack:
